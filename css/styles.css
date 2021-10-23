@@ -66,6 +66,11 @@ body {
 .link {
   text-decoration: none;
 }
+.header {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: #ECECEC;
+}
 .header-nav {
   display: flex;
   align-items: center;
